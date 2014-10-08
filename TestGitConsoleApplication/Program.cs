@@ -10,6 +10,7 @@ namespace TestGitConsoleApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("The first change");
         }
     }
 }
