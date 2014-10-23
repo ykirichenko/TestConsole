@@ -14,6 +14,7 @@ namespace TestGitConsoleApplication
 			// some changes to branch 1
 			// some changes to branch 1.1
 			// some changes to branch 6
+			// some changes to branch 7
         }
     }
 }
