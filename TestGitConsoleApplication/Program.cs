@@ -12,6 +12,7 @@ namespace TestGitConsoleApplication
         {
             Console.WriteLine("The first change");
 			// some changes to branch 2
+			// some changes to branch 4
         }
     }
 }
