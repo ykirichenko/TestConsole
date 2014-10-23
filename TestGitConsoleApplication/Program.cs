@@ -13,6 +13,7 @@ namespace TestGitConsoleApplication
             Console.WriteLine("The first change");
 			// some changes to branch 1
 			// some changes to branch 1.1
+			// some changes to branch 6
         }
     }
 }
