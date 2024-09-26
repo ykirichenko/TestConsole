@@ -11,10 +11,9 @@ namespace TestGitConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("The first change");
-			// some changes to branch 1
-			// some changes to branch 1.1
-			// some changes to branch 6
-			// some changes to branch 7
+			// some changes to branch 2
+			// some changes to branch 4
+			// some changes to branch 4.1
         }
     }
 }
